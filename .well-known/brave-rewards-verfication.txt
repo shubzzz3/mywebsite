@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: shubhamkale.com
+Token: c0f1c7e9e8a05c8963249c23e1dfad2cf73cb579c6aaed698ed872cfa7dc0bc1
